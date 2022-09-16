@@ -4,7 +4,7 @@
 
 ## Basics
 - Generation 3 (Ruby, Sapphire, Emerald).
-- Double Battle.
+- Double Battles.
 - Max 1 legendary.
 - Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
 - **Banned moves**: Double Team, Minimize.
