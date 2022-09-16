@@ -12,7 +12,7 @@
 
 ## Notable mechanics and tips
 - When a Pokemon dies, the replacement is sent in before the turn ends.
-- The first two slots on your team are your lead, be sure to order them before the challenge begins.
+- The first two slots on your team are your lead, make sure to order them before the challenge begins.
 - Types are physical or special, not moves. Example: all Fire moves are special and all Normal moves are phisical.
 - Surf and Rock Slide only target foes.
 - Earthquake and Explosion target all pokemons on the field.
