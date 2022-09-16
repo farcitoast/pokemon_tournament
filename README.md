@@ -15,10 +15,10 @@
 - The first two slots on your team are your lead, make sure to order them before the challenge begins.
 - Types are physical or special, not moves. Example: all Fire moves are special and all Normal moves are phisical.
 - Surf and Rock Slide only target foes.
-- Earthquake and Explosion target all pokemons on the field.
+- Earthquake and Explosion target all pokemons on the field, except for the user.
 - Spread moves that target only foes (i.e. Surf, Rock Slide) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokemons on the field (i.e. Earthquake, Explosion) have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
-- If in doubt on the effect of a move, check it out on Smogon (see Resources)... some have different or unexpected behaviors in double battles (e.g. Reflect).
+- If uncertain about the effect of a move, check it out on Smogon (see Resources)... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
 ## Resources
 - [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move/pokemon and you will get all the info you need.
