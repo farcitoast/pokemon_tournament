@@ -1,11 +1,14 @@
-Welcome to the first Pokemon Showdown official tournament! Below the rules and some useful tips.
+**Welcome to the first Pokemon Showdown official tournament!** Below the rules and some useful tips.
+
+<img src="https://i.pinimg.com/originals/87/e1/68/87e168675e78d16e2fd26bbeefc400c9.jpg" width="400">
 
 ## Basics
 - Generation 3 (Ruby, Sapphire, Emerald).
 - Double Battle.
 - Max 1 legendary.
 - Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
-- Banned moves: Double Team, Minimize.
+- *Banned moves*: Double Team, Minimize.
+- *Banned pokemons*: Wobbuffet, Blissey.
 
 ## Notable mechanics and tips
 - When a Pokemon dies, the replacement is sent in before the turn ends.
@@ -20,3 +23,6 @@ Welcome to the first Pokemon Showdown official tournament! Below the rules and s
 ## Resources
 - [Stats](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move/pokemon and you will get all the info.
 - [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
+
+## Tournament
+Coming soon...
