@@ -23,7 +23,7 @@
 - If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
 ## Tournament formula
-2 phases:
+Two phases:
 1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Each player MUST use the same team for all the battles, without any modification.
 2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. After the round-robin phase, each player is free to CHANGE his team, but once the playoffs starts any modification is FORBIDDEN. In a best-of-3 series, after each battle players can change their lead.
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
