@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/87/e1/68/87e168675e78d16e2fd26bbeefc400c9.jpg" width="400">
 
-## Basics
+## Basic rules
 - Generation 3 (Ruby, Sapphire, Emerald).
 - Double Battles.
 - Max 1 legendary.
