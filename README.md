@@ -29,7 +29,7 @@
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
 <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600">
 
-[^1]: sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
+[^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
 
 ## Resources
 - [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokemon / ability and you will get all the info you need. When checking out something, please make sure to select the **RS** (Ruby & Sapphire) generation at the top of the page.
