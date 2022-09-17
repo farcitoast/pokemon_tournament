@@ -13,12 +13,14 @@
 ## Notable mechanics and tips
 - When a Pokemon dies, the replacement is sent in before the turn ends.
 - The first two slots on your team are your lead, make sure to order the pokemons in your team accordingly before the challenge begins.
-- Types are physical or special, not moves. Example: all Fire moves are special and all Normal moves are phisical.
+- Types are physical or special, not moves. For instance, all Fire moves are special. Below the full list:
+  - _Physical_: Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost, Steel.
+  - _Special_: Fire, Water, Grass, Electric, Ice, Psychic, Dragon, Dark.
 - Surf and Rock Slide only target foes.
 - Earthquake and Explosion target all pokemons on the field, except for the user.
 - Spread moves that target only foes (i.e. Surf, Rock Slide) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokemons on the field (i.e. Earthquake, Explosion) have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
-- If uncertain about the effect of a move, check it out on Smogon (see Resources)... some have different or unexpected behaviors in double battles (e.g. Reflect).
+- If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
 ## Tournament formula
 2 phases:
@@ -28,5 +30,5 @@
 <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600">
 
 ## Resources
-- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move/pokemon/ability and you will get all the info you need.
+- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokemon / ability and you will get all the info you need.
 - [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
