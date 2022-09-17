@@ -8,11 +8,11 @@
 - Max 1 legendary.
 - Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
 - **Banned moves**: Double Team, Minimize.
-- **Banned pokemons**: Wobbuffet, Blissey.
+- **Banned pokemons**: Wobbuffet, Blissey (?).
 
 ## Notable mechanics and tips
 - When a Pokemon dies, the replacement is sent in before the turn ends.
-- The first two slots on your team are your lead, make sure to order them before the challenge begins.
+- The first two slots on your team are your lead, make sure to order the pokemons in your team accordingly before the challenge begins.
 - Types are physical or special, not moves. Example: all Fire moves are special and all Normal moves are phisical.
 - Surf and Rock Slide only target foes.
 - Earthquake and Explosion target all pokemons on the field, except for the user.
@@ -21,7 +21,7 @@
 - If uncertain about the effect of a move, check it out on Smogon (see Resources)... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
 ## Resources
-- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move/pokemon and you will get all the info you need.
+- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move/pokemon/ability and you will get all the info you need.
 - [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
 
 ## Tournament
