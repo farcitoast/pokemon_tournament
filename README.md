@@ -1,4 +1,4 @@
-**Welcome to the first Pokemon Showdown official tournament!** Below the rules and some useful tips.
+**Welcome to the first [Pokemon Showdown](https://play.pokemonshowdown.com/) official tournament!** Below the rules and some useful tips.
 
 <img src="https://i.pinimg.com/originals/87/e1/68/87e168675e78d16e2fd26bbeefc400c9.jpg" width="400">
 
