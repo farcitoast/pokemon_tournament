@@ -33,6 +33,6 @@ Two phases:
 [^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
 
 ## Resources
-- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokemon / ability and you will get all the info you need. When checking out something, please make sure to select the **RS** (Ruby & Sapphire) generation at the top of the page.
+- [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokemon / ability and you will get all the info you need. When checking out something, please make sure to select the RS (Ruby & Sapphire) generation at the top of the page.
 - [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
-- [Team builder](https://marriland.com/tools/team-builder/): type in your pokemons, select Gen.3 from the dropdown menu, and scroll down to see the table that sums up the defensive coverage of your team. There is an advanced mode, where you can also specify the movesets of your pokemons, in order to check the offensive coverage too.
+- [Team builder](https://marriland.com/tools/team-builder/): type in your pokemons, select Gen. 3 from the dropdown menu, and scroll down to see the table that sums up the defensive coverage of your team. There is an advanced mode, where you can also specify the movesets of your pokemons, in order to check the offensive coverage too.
