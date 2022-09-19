@@ -20,6 +20,7 @@
 - Earthquake, Explosion, and Self-Destruct target all pokemons on the field, except the user (there are others too, these are just the most relevant).
 - Spread moves that only target foes (i.e. Surf) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokemons on the field, except the user, have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
+- The moves **Protect** and **Detect** can be very useful in double battles, if used effectively. Even if both foes attack you in one turn, protect will absorb both their attacks.
 - Try to build a balanced team, all the pokemons should not have the same weaknesses. See [Resources](#resources) for a team builder tool to analyze the weaknesses and strenghts of a team.
 - If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
