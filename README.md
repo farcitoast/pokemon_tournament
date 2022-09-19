@@ -17,9 +17,9 @@
   - _Physical_: Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost, Steel.
   - _Special_: Fire, Water, Grass, Electric, Ice, Psychic, Dragon, Dark.
 - Surf and Rock Slide only target foes.
-- Earthquake and Explosion target all pokemons on the field, except for the user.
+- Earthquake, Explosion, and Self-Destruct target all pokemons on the field, except the user.
 - Spread moves that target only foes (i.e. Surf, Rock Slide) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
-- Spread moves that target all pokemons on the field (i.e. Earthquake, Explosion) have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
+- Spread moves that target all pokemons on the field, except the user, have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
 - Try to build a balanced team, all the pokemons should not have the same weaknesses. See [Resources](#resources) for a team builder tool to analyze the weaknesses and strenghts of a team.
 - If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
