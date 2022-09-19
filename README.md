@@ -16,7 +16,7 @@
 - Types are physical or special, not moves. For instance, all Fire moves are special. Below the full list:
   - _Physical_: Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost, Steel.
   - _Special_: Fire, Water, Grass, Electric, Ice, Psychic, Dragon, Dark.
-- Surf, Rock Slide, Water Spout, Eruption, Blizzard, and Icy Winds only target foes (there are others too, these are just the most relevant).
+- Surf, Rock Slide, Water Spout, Eruption, Blizzard, and Icy Winds only target foes (there are other moves too, these are just the most relevant).
 - Earthquake, Explosion, and Self-Destruct target all pokemons on the field, except the user (there are others too, these are just the most relevant).
 - Spread moves that only target foes (i.e. Surf) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokemons on the field, except the user, have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
