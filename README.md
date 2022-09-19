@@ -7,8 +7,8 @@
 - Double Battles.
 - Max 1 legendary.
 - Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
-- **Banned moves**: Double Team, Minimize.
-- **Banned pokémons**: Wobbuffet, Blissey (?).
+- _Banned moves_: Double Team, Minimize.
+- _Banned pokémons_: Wobbuffet, Blissey (?).
 
 ## Notable mechanics and tips
 - When a pokémon dies, the replacement is sent in before the turn ends.
