@@ -20,7 +20,7 @@
 - Earthquake and Explosion target all pokemons on the field, except for the user.
 - Spread moves that target only foes (i.e. Surf, Rock Slide) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokemons on the field (i.e. Earthquake, Explosion) have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokemon.
-- Try to build a balanced team, all the pokemons should not have the same weaknesses. See see [Resources](#resources) for a tool to analyze the weaknesses and strenght of a team.
+- Try to build a balanced team, all the pokemons should not have the same weaknesses. See [Resources](#resources) for a tool to analyze the weaknesses and strenght of a team.
 - If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some have different or unexpected behaviors in double battles (e.g. Reflect).
 
 ## Tournament formula
@@ -35,4 +35,4 @@ Two phases:
 ## Resources
 - [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokemon / ability and you will get all the info you need. When checking out something, please make sure to select the **RS** (Ruby & Sapphire) generation at the top of the page.
 - [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
-- [Team builder](https://marriland.com/tools/team-builder/): type in your pokemons, select Gen.3 from the dropdown menu, and scroll down to see the table that sums up strenghts and weaknesses of your team.
+- [Team builder](https://marriland.com/tools/team-builder/): type in your pokemons, select Gen.3 from the dropdown menu, and scroll down to see the table that sums up the defensive coverage of your team. There is an advanced mode, where you can also specify the movesets of your pokemons, in order to check the offensive coverage too.
