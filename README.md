@@ -26,14 +26,10 @@
 
 ## Tournament formula
 Two phases:
-1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Each player _must_ use the same team for all the battles, without any modification.
-2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. After the round-robin phase, each player is free to _change_ his team, but once the playoffs starts any modification is _forbidden_. In a best-of-3 series, after each battle players can change their lead.
+1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle.
+2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team throughout the playoffs. In a best-of-3 series, after each battle players can change their lead.
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
 <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600">
-
-Rules:
-- In the round-robin phase, players can change team after each battle.
-- In the playoffs phase, players can only use one team.
 
 [^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
 
