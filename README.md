@@ -9,6 +9,7 @@
 - Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
 - _Banned moves_: Double Team, Minimize.
 - _Banned pokémons_: Wobbuffet, Blissey (?).
+- _Banned items_: Soul Dew on Latios / Latias.
 
 ## Notable mechanics and tips
 - When a pokémon dies, the replacement is sent in before the turn ends.
