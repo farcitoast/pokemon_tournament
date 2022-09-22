@@ -5,11 +5,12 @@
 ## Basic rules
 - Generation 3 (Ruby, Sapphire, Emerald).
 - Double Battles.
-- Max 1 legendary.
-- Max 1 starter (e.g. can't have Charizard and Blastoise on the same team).
+- **Max 1 legendary**.
+- **Max 1 starter** (e.g. can't have Charizard and Blastoise on the same team).
+- __Species clause__: A player cannot have two Pokemon with the same National Pokédex number in a team (e.g. you can't have two Shuckle in a team... even one might be a bit of a stretch :grimacing:).
 - __Banned moves__: Double Team, Minimize.
-- __Banned pokémons__: Wobbuffet, Blissey (?).
-- __Banned items__: Soul Dew on Latios / Latias.
+- __Banned items__: Soul Dew on Latios / Latias, Leftovers on Wobbuffet.
+- __Unsportsmanlike badge__: Wobbuffet and Blissey are NOT banned, but anyone who uses them will be rewarded with an infamous unsportsmanlike badge at the end of the tournament.
 
 ## Notable mechanics and tips
 - When a pokémon dies, the replacement is sent in before the turn ends.
@@ -21,7 +22,7 @@
 - Earthquake, Explosion, and Self-Destruct target all pokémons on the field, except the user (there are others too, these are just the most relevant).
 - Spread moves that only target foes (i.e. Surf) have 50% damage reduction. _Example_: The damage done by Surf is split between the foes.
 - Spread moves that target all pokémons on the field, except the user, have no damage reduction. _Example_: Earthquake will deal its usual damage to each pokémon.
-- **Speed matters**! The order in which pokémons will execute their moves depends on their speed stat. This is always true if all the selected moves have the same priority. In general, most moves have priority 0... however, there are some exeptions (check out [this move](https://www.smogon.com/dex/rs/moves/protect/) that has priority 3). A move with higher priority will always be executed first, independently of the speed stat of the pokémons. _Paralysis_ can be an effective way to reduce the speed of a foe, since it reduces it to 1/4 of the original value!
+- ~~Size~~ Speed matters! The order in which pokémons will execute their moves depends on their speed stat. This is always true if all the selected moves have the same priority. In general, most moves have priority 0... however, there are some exeptions (check out [this move](https://www.smogon.com/dex/rs/moves/protect/) that has priority 3). A move with higher priority will always be executed first, independently of the speed stat of the pokémons. _Paralysis_ can be an effective way to reduce the speed of a foe, since it reduces it to 1/4 of the original value!
 - The moves [**Protect**](https://www.smogon.com/dex/rs/moves/protect/) and [**Detect**](https://www.smogon.com/dex/rs/moves/detect/) can be very useful in double battles, if used effectively. Even if both foes attack you in one turn, Protect / Detect will absorb both their attacks. These moves have high priority. The accuracy of these moves is 100%, but it halves every time that they are used consecutively; as soon as they fail once, their accuracy goes back to 100%. _Example_: Magmar uses Protect and it succeeds (100% accuracy), then in the next turn Magmar still wants to use Protect... it has to be lucky, since now the accuracy is 50%! If Protect fails, then its accuracy goes back to 100% for the next turn; if it succeeds, its accuracy will be 25% for the next turn.
 - The moves [**Roar**](https://www.smogon.com/dex/rs/moves/roar/) and [**Whirlwind**](https://www.smogon.com/dex/rs/moves/whirlwind/) can be very useful to get rid of an annoying opponent, in particular if it has pumped-up stats (e.g. a foes that used moves such as Sword Dance or Dragon Dance to get stronger); this works because when a pokémon is switched out, changes to its stats are reset. Remember that both Roar and Whirlwind have a low priority, so even if your pokémon is faster than the foes, these moves will be executed after other moves with higher priority. 
 - Non-volatile status conditions (e.g. burn, freeze, paralysis, poison) do not heal when switching out a pokémon. If a pokémon is _badly poisoned_ (e.g. as a consequence of the move Toxic), it will lose 1/16 of its HP the first turn, after which the damage is increased by 1/16 each turn; if a badly poisoned pokémon is switched out, it will still be badly poisoned, but when it re-enters the battlefield the counter is reset and the damage will start to build up as if it was the first turn.
@@ -32,7 +33,7 @@
 ## Tournament formula
 Two phases:
 1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle.
-2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team throughout the playoffs. In a best-of-3 series, after each battle players can change their lead.
+2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle.
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
 <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600">
 
