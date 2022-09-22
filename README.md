@@ -42,5 +42,5 @@ Two phases:
 
 ## Resources
 - [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokémon / ability and you will get all the info you need. When checking out something, please make sure to select the RS (Ruby & Sapphire) generation at the top of the page.
-- [Types](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png): type chart with strenghts and weaknesses.
+- [Types]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png](https://img.pokemondb.net/images/typechart-gen2345.png)): type chart with strenghts and weaknesses.
 - [Team builder](https://marriland.com/tools/team-builder/): type in your pokémons, select Gen. 3 from the dropdown menu, and scroll down to see the table that sums up the defensive coverage of your team. There is an advanced mode, where you can also specify the movesets of your pokémons, in order to check the offensive coverage too.
