@@ -8,9 +8,10 @@
 - **Max 1 legendary**.
 - **Max 1 starter** (e.g. can't have Charizard and Blastoise on the same team).
 - __Species clause__: A player cannot have two Pokemon with the same National Pokédex number in a team (e.g. you can't have two Shuckle in a team... even one might be a bit of a stretch :grimacing:).
+- __Banned pokemons__: Wobbuffet.
 - __Banned moves__: Double Team, Minimize.
 - __Banned items__: Soul Dew on Latios / Latias, Leftovers on Wobbuffet.
-- __Unsportsmanlike badge__: Wobbuffet and Blissey are NOT banned, but anyone who uses them will be rewarded with an infamous unsportsmanlike badge at the end of the tournament.
+- __Unsportsmanlike badge__: Blissey is NOT banned, but anyone who uses it will be rewarded with an infamous unsportsmanlike badge at the end of the tournament.
 
 ## Notable mechanics and tips
 - When a pokémon dies, the replacement is sent in before the turn ends.
