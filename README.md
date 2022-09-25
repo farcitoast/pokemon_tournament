@@ -31,12 +31,40 @@
 - Try to build a balanced team, all the pokémons should not have the same weaknesses. See [Resources](#resources) for a team builder tool to analyze the weaknesses and strenghts of a team.
 - If uncertain about the effect of a move, check it out on Smogon (see [Resources](#resources))... some of them may also have different or unexpected behaviors in double battles (e.g. Reflect).
 
-## Tournament formula
+## Tournament
 Two phases:
 1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle.
-2. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle.
-<!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
-<img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600">
+
+<table>
+<tr><th>Results</th><th>Standings</th></tr>
+<tr><td>
+  
+|            |     Chri      |      Cla      |     Davide    |     Ferra     |    Giulio     |    Masche     |
+|------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| **Chri**   |:no_entry_sign:|               |               |               |               |               |
+| **Cla**    |               |:no_entry_sign:|               |               |               |               |
+| **Davide** |               |               |:no_entry_sign:|               |               |               |
+| **Ferra**  |               |               |               |:no_entry_sign:|               |               |
+| **Giulio** |               |               |               |               |:no_entry_sign:|               |
+| **Masche** |               |               |               |               |               |:no_entry_sign:|
+   
+</td><td>
+  
+| Player | Points |
+|--------|:------:|
+| Chri   |   0    |
+| Cla    |   0    |
+| Davide |   0    |
+| Ferra  |   0    |
+| Giulio |   0    |
+| Masche |   0    |
+  
+</td></tr> 
+</table>
+
+3. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle.
+<img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600">
+<!-- <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600"> -->
 
 [^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
 
