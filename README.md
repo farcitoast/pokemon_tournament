@@ -41,12 +41,12 @@ Two phases:
   
 |            |     Chri      |      Cla      |     Davide    |     Ferra     |    Giulio     |    Masche     |
 |------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **Chri**   |:no_entry_sign:|               |:point_left:   |               |:point_left:   |               |
-| **Cla**    |               |:no_entry_sign:|:point_up:     |               |:point_left:   |:point_up:     |
+| **Chri**   |:no_entry_sign:|:point_left:   |:point_left:   |               |:point_left:   |:point_left:   |
+| **Cla**    |:point_up:     |:no_entry_sign:|:point_up:     |               |:point_left:   |:point_up:     |
 | **Davide** |:point_up:     |:point_left:   |:no_entry_sign:|               |:point_left:   |:point_left:   |
 | **Ferra**  |               |               |               |:no_entry_sign:|               |               |
 | **Giulio** |:point_up:     |:point_up:     |:point_up:     |               |:no_entry_sign:|:point_left:   |
-| **Masche** |               |:point_left:   |:point_up:     |               |:point_up:     |:no_entry_sign:|
+| **Masche** |:point_up:     |:point_left:   |:point_up:     |               |:point_up:     |:no_entry_sign:|
    
 </td><td>
   
