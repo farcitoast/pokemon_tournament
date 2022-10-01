@@ -33,7 +33,7 @@
 
 ## Tournament
 Two phases:
-1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle.
+1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle. Moves, EVs, IVs, Natures, Items, Abilities etc. cannot be modified once the playoffs start.
 
 <table>
 <tr><th>Results</th><th>Standings</th></tr>
