@@ -52,12 +52,12 @@ Two phases:
   
 | Player | Points |
 |--------|:------:|
-| Chri   |   0    |
-| Cla    |   0    |
-| Davide |   0    |
+| Chri   |   4    |
+| Cla    |   1    |
+| Davide |   4    |
 | Ferra  |   0    |
-| Giulio |   0    |
-| Masche |   0    |
+| Giulio |   2    |
+| Masche |   1    |
   
 </td></tr> 
 </table>
