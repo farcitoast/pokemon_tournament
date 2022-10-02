@@ -50,14 +50,14 @@ Two phases:
    
 </td><td>
   
-|| Player     | Points |
-||------------|:------:|
-|1| (1) Chri   |   5    |
-|2| (2) Davide |   4    |
-|3| (3) Giulio |   2    |
-|4| (4) Ferra  |   2    |
-|5| (5) Masche |   1    |
-|6| (6) Cla    |   1    |
+|n| Player     | Points |
+|-|------------|:------:|
+|1| Chri   |   5    |
+|2| Davide |   4    |
+|3| Giulio |   2    |
+|4| Ferra  |   2    |
+|5| Masche |   1    |
+|6| Cla    |   1    |
   
 </td></tr> 
 </table>
