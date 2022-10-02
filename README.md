@@ -50,7 +50,7 @@ Two phases:
    
 </td><td>
   
-|n| Player     | Points |
+| | Player     | Points |
 |-|------------|:------:|
 |1| Chri   |   5    |
 |2| Davide |   4    |
