@@ -64,6 +64,7 @@ Two phases:
 
 3. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle.
 <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600">
+<img src="img/playoffs-brackets.png" width="600">
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600"> -->
 
 [^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
