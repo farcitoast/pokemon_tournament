@@ -33,7 +33,7 @@
 
 ## Tournament
 Two phases:
-1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle. Moves, EVs, IVs, Natures, Items, Abilities etc. cannot be modified once the playoffs start.
+1. **Round-robin phase**: each player battles once all the other players. For each battle, the winner gets 1 point. The standings at the end of the first phase will be used to determine the pairings in the playoffs. If two or more players are even on points, head-to-head results dictate the final standings. If the head-to-head critera is not applicable[^1], a random order will be computed. Players can change team after each battle.
 
 <table>
 <tr><th>Results</th><th>Standings</th></tr>
@@ -62,7 +62,7 @@ Two phases:
 </td></tr> 
 </table>
 
-3. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle.
+3. **Best-of-3 playoffs**: best-of-3 knockout phase, the pairings are shown below for 8 players. Players MUST use one single team of 10 pokémons throughout the whole playoffs; before each battle, each player will choose the designated 6 pokémons. There might be up to 2 legendaries in the team of 10 pokémons, but there can be only one among the 6 pokémons selected for a battle. Moves, EVs, IVs, Natures, Items, Abilities etc. can no longer be modified once the playoffs start.
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/6-team-bracket-1024x724.jpg" width="600"> -->
 <img src="img/playoffs-brackets.png" width="600">
 <!-- <img src="https://www.interbasket.net/wp-content/uploads/8-team-single-elimination-bracket-seeded-1024x685.jpg" width="600"> -->
