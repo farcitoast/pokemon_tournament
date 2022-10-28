@@ -70,7 +70,7 @@ Two phases:
 [^1]: Sometimes the head-to-head criterion cannot be used, such as in the case where three players A, B, and C are even on points and A defeated B, B defeated C, and C defeated A.
 
 ## Winning Team
-<img src="img/winning-team.jpeg" height="300">
+<img src="img/winning-team.jpeg" style="height:300;">
 
 ## Resources
 - [Stats (Smogon)](https://www.smogon.com/dex/rs/pokemon/): here you can find anything, search for a move / pokémon / ability and you will get all the info you need. When checking out something, please make sure to select the RS (Ruby & Sapphire) generation at the top of the page.
